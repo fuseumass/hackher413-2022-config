@@ -1,5 +1,5 @@
-name: HackUMass
-version: IX # Could also be a roman numeral or other number, will be concatenated with the hackathon name where necessary
+name: Hackher
+version: 2022 # Could also be a roman numeral or other number, will be concatenated with the hackathon name where necessary
 main_website: https://hackumass.com
 dashboard_url: dashboard.hackumass.com
 logos:
@@ -11,7 +11,7 @@ emails:
   contact: team@hackumass.com
   email_verification: false
 slack:
-  enabled: true
+  enabled: false
   subdomain: hackumass-ix
   message_url_prefix: https://app.slack.com/client/T02FE4HHNA1/C02FPB7TJ0L
 applications:
