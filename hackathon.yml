@@ -1,14 +1,14 @@
-name: Hackher
+name: Hack(H)er413
 version: 2022 # Could also be a roman numeral or other number, will be concatenated with the hackathon name where necessary
-main_website: https://hackumass.com
-dashboard_url: dashboard.hackumass.com
+main_website: https://www.hackher413.com/
+dashboard_url: dashboard.hackher413.com
 logos:
-  primary_path: HackUMassLogo.png
+  primary_path: 2022hackher_logo.png
   nav_path: navlogo.png
-  favicon_url: https://hackumass.com/assets/img/favicon-hum9.ico
+  favicon_url: https://hackumass.com/assets/img/favicon-hum9.ico #what
 emails:
-  donotreply: noreply@hackumass.com
-  contact: team@hackumass.com
+  donotreply: noreply@hackumass.com #what
+  contact: hackher413@gmail.com
   email_verification: false
 slack:
   enabled: false
@@ -31,8 +31,8 @@ checkin:
     - UMass, Amherst
 projects:
   public: true
-  hacking_begins: "Nov 5, 2021 22:00:00"
-  hacking_ends: "Nov 7, 2021 07:00:00"
+  hacking_begins: "Feb 5, 2022 22:00:00"
+  hacking_ends: "Feb 6, 2022 07:00:00"
 # List all codes here which can be redeemed on Dashboard to grant permissions
 # This is useful for judges and mentors who show up to the event and need an account
 # with more permissions, and can save time and effort of an organizer
