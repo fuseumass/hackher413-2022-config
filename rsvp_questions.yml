@@ -1,6 +1,6 @@
 custom_questions:
  - name: workshops
-   label: "What types of workshops do you want to see at Hackher 2022?"
+   label: "What types of workshops do you want to see at Hack(H)er 2022?"
    type: multiselect
    options:
     - Hardware
