@@ -9,9 +9,9 @@ custom_fields:
    required: True 
    options:
     - Yes, I am vaccinated.
-    - No, but I am willing to get tested prior to attending HackUMass.
+    - No, but I am willing to get tested prior to attending Hack(H)er413.
  - name: in_person_hacking
-   label: 'Do you plan to hack in-person in the ILC or remotely? NOTE: Judging will take place in-person on Sunday, November 7th. In order to be eligible for a prize, demos must be done in-person.'
+   label: 'Do you plan to hack in-person in the ILC or remotely? NOTE: Judging will take place in-person on Sunday, February 6th. In order to be eligible for a prize, demos must be done in-person.'
    type: select
    required: True 
    options:
@@ -110,13 +110,13 @@ custom_fields:
    options:
     - I previously attended Hack(H)er413
     - From the MLH website
-    - From HackHer413
+    - From HackUMass
     - From another MLH event
     - Word of mouth
     - From a teacher
     - From a friend
     - Social media
-    - I go to UMass
+    - Class presentation
     - Other
  - name: what_hardware
    label: 'What type of online activities would you like to see at Hack(H)er413 2022?'
