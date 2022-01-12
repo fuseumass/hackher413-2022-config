@@ -11,9 +11,9 @@ emails:
   contact: hackher413@gmail.com
   email_verification: false
 slack:
-  enabled: false
-  subdomain: hackumass-ix
-  message_url_prefix: https://app.slack.com/client/T02FE4HHNA1/C02FPB7TJ0L
+  enabled: true
+  subdomain: hackher4132022
+  message_url_prefix: https://app.slack.com/client/T02TU0CLUUU/C02U4BLFMKK
 applications:
   mode: 'open'
   # options: open, waitlist, or closed. defaults to closed.
